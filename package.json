@@ -1,0 +1,32 @@
+{
+  "name": "restful-server-example",
+  "version": "1.0.0",
+  "description": "RESTful server implementation using Node.js + Expressjs + MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcapona/restful-server-example.git"
+  },
+  "keywords": [
+    "REST",
+    "RESTful",
+    "API",
+    "web",
+    "server"
+  ],
+  "author": "Jorge Capona",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcapona/restful-server-example/issues"
+  },
+  "homepage": "https://github.com/jcapona/restful-server-example#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "method-override": "^2.3.5",
+    "mongoose": "^4.4.5"
+  }
+}
